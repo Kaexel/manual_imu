@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="manual_imu" targetName="GPLidar" />
+      <config projectName="manual_imu" targetName="manual_imu" />
+      <config projectName="manual_imu" targetName="sense_lidar" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3050583f-f3d7-4cd8-b27e-2d627f6a4390" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/gp_ros/GPLidar.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/gp_ros/GPLidar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/sense_ros_lib/sense_lidar.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/sense_ros_lib/sense_lidar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GPLidar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/GPLidar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sense_lidar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/sense_lidar.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-Debug-GPLidar" />
+  </component>
+  <component name="ProjectId" id="1qiaQkQswyAB32sQpCejyuqzAjc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.manual_imu">
+    <configuration name="GPLidar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="manual_imu" TARGET_NAME="GPLidar" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="manual_imu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="manual_imu" TARGET_NAME="manual_imu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="manual_imu" RUN_TARGET_NAME="manual_imu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sense_lidar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="manual_imu" TARGET_NAME="sense_lidar" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.GPLidar" />
+      <item itemvalue="CMake Application.manual_imu" />
+      <item itemvalue="CMake Application.sense_lidar" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3050583f-f3d7-4cd8-b27e-2d627f6a4390" name="Default Changelist" comment="" />
+      <created>1617564849449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617564849449</updated>
+      <workItem from="1617564850638" duration="10928000" />
+      <workItem from="1617667540490" duration="23275000" />
+      <workItem from="1617813450498" duration="5970000" />
+      <workItem from="1618768276790" duration="16273000" />
+      <workItem from="1618859134397" duration="3768000" />
+      <workItem from="1619110602039" duration="7797000" />
+      <workItem from="1619875732557" duration="633000" />
+      <workItem from="1622647645537" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="346" key="GridCell.Tab.0.bottom" timestamp="1619122679611">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.0.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679611" />
+    <state width="1874" height="346" key="GridCell.Tab.0.center" timestamp="1619122679610">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.0.center/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679610" />
+    <state width="1874" height="346" key="GridCell.Tab.0.left" timestamp="1619122679610">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.0.left/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679610" />
+    <state width="1874" height="346" key="GridCell.Tab.0.right" timestamp="1619122679611">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.0.right/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679611" />
+    <state width="1874" height="346" key="GridCell.Tab.1.bottom" timestamp="1619122679611">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.1.bottom/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679611" />
+    <state width="1874" height="346" key="GridCell.Tab.1.center" timestamp="1619122679611">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.1.center/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679611" />
+    <state width="1874" height="346" key="GridCell.Tab.1.left" timestamp="1619122679611">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.1.left/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679611" />
+    <state width="1874" height="346" key="GridCell.Tab.1.right" timestamp="1619122679611">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1874" height="346" key="GridCell.Tab.1.right/0.25.1920.1055@0.25.1920.1055" timestamp="1619122679611" />
+    <state x="464" y="188" key="SettingsEditor" timestamp="1617721534091">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="464" y="188" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1617721534091" />
+    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1619121911020">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="623" y="258" width="672" height="678" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1619121911020" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>393</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>390</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/sense_lidar.cpp</url>
+          <line>81</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="pung" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
